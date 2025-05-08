@@ -1,0 +1,159 @@
+
+=============== ROCKET STATISTICS ================
+Falcon 9:             31 (34.4%)
+Falcon Heavy:          1 (1.1%)
+Starship:              1 (1.1%)
+Electron:              6 (6.7%)
+Vulcan:                9 (10.0%)
+Atlas:                 1 (1.1%)
+Other:                41 (45.6%)
+
+================ NEXT 3 LAUNCHES =================
+
+Launch #1:
+Name: Falcon 9 Block 5 | Starlink Group 15-3
+Provider: SpaceX
+Date: Sat May 10, 2025 00:01 UTC
+Location: SLC-4E, Vandenberg SFB, California, USA
+
+Launch #2:
+Name: Falcon 9 Block 5 | Starlink Group 6-91
+Provider: SpaceX
+Date: Sat May 10, 2025 06:28 UTC
+Location: SLC-40, Cape Canaveral SFS, Florida, USA
+
+Launch #3:
+Name: Falcon 9 Block 5 | Starlink Group 6-83
+Provider: SpaceX
+Date: Sun May 11, 2025 04:24 UTC
+Location: LC-39A, Kennedy Space Center, Florida, USA
+
+============== LAUNCHES BY COMPANY ===============
+
+SpaceX (33 launches):
+  1. Falcon 9 Block 5 | Starlink Group 15-3 - Sat May 10, 2025 00:01 UTC - SLC-4E, Vandenberg SFB, California, USA
+  2. Falcon 9 Block 5 | Starlink Group 6-91 - Sat May 10, 2025 06:28 UTC - SLC-40, Cape Canaveral SFS, Florida, USA
+  3. Falcon 9 Block 5 | Starlink Group 6-83 - Sun May 11, 2025 04:24 UTC - LC-39A, Kennedy Space Center, Florida, USA
+  4. Falcon 9 Block 5 | Starlink Group 15-4 - Tue May 13, 2025 00:00 UTC - SLC-4E, Vandenberg SFB, California, USA
+  5. Falcon 9 Block 5 | Axiom Mission 4 (Ax-4) - Thu May 29, 2025 17:03 UTC - LC-39A, Kennedy Space Center, Florida, USA
+  6. Falcon 9 Block 5 | Nusantara Lima - NET May, 2025 -                             
+  7. Falcon 9 Block 5 | GPS III SV08 - NET May, 2025 -                             
+  8. Starship-Super Heavy Block 1/2 | Starship Flight 9 - NET May, 2025 -                             
+  9. Falcon 9 Block 5 | SXM-10 - NET Jun 6, 2025 -                         
+  10. Falcon 9 Block 5 | Transporter 14 - NET June, 2025 -                             
+  11. Falcon 9 Block 5 | Bandwagon-4 - NET June, 2025 -                             
+  12. Falcon 9 Block 5 | Globalstar Third Gen Sat Mission 1 - NET 2nd Quarter, 2025 -                             
+  13. Falcon 9 Block 5 | Project Kuiper - NET 2nd Quarter, 2025 -                             
+  14. Falcon 9 Block 5 | Project Kuiper - NET 2nd Quarter, 2025 -                             
+  15. Falcon 9 Block 5 | Project Kuiper - NET 2nd Quarter, 2025 -                             
+  16. Falcon 9 Block 5 | NAOS (LUXEOSys) - NET 1st Half 2025 -                             
+  17. Falcon 9 Block 5 | MTG-S1/Sentinel-4A - NET July, 2025 -                             
+  18. Falcon 9 Block 5 | SpaceX Crew-11 - NET July, 2025 -                             
+  19. Falcon 9 Block 5 | IMAP - NET September, 2025 -                             
+  20. Falcon 9 Block 5 | CRS NG-23 - NET September, 2025 -                             
+  21. Falcon 9 Block 5 | Tranche 1 Transport Layer B - NET September, 2025 -                             
+  22. Falcon 9 Block 5 | O3b mPOWER 9 - 11 - NET 3rd Quarter, 2025 -                             
+  23. Falcon 9 Block 5 | CRS SpX-33 - NET 3rd Quarter, 2025 -                             
+  24. Falcon 9 Block 5 | Tranche 1 Tracking Layer C - NET 3rd Quarter, 2025 -                             
+  25. Falcon 9 Block 5 | Tranche 1 Tracking Layer A - NET 3rd Quarter, 2025 -                             
+  26. Falcon 9 Block 5 | Tranche 1 Tracking Layer E - NET 3rd Quarter, 2025 -                             
+  27. Falcon 9 Block 5 | TRACERS & Others - NET 3rd Quarter, 2025 -                             
+  28. Falcon 9 Block 5 | SPAINSAT New Generation II - NET October, 2025 -                             
+  29. Falcon 9 Block 5 | Transporter 15 - NET October, 2025 -                             
+  30. Falcon 9 Block 5 | TSIS-2 & Others - NET October, 2025 -                             
+  31. Falcon 9 Block 5 | Sentinel-6B - NET November, 2025 -                             
+  32. Falcon 9 Block 5 | USSF-36 - NET 2025 -                             
+  33. Falcon Heavy | Griffin Mission One - NET December, 2025 -                             
+
+Gilmour (1 launches):
+  1. Eris | TestFlight1 - NET May 15, 2025 -                         
+
+Rocket Lab (7 launches):
+  1. Electron/Curie | The Sea God Sees - Sat May 17, 2025 08:15 UTC - Māhia Peninsula, New Zealand
+  2. Electron/Curie | HawkEye 360 Flight 2 - NET June, 2025 -                             
+  3. Electron/Curie | Acadia Mission 4 - NET June, 2025 -                             
+  4. Electron/Curie | BlackSky Gen-3 Mission 2 - NET 2nd Quarter, 2025 -                             
+  5. Electron | DART AE - NET 1st Half 2025 -                             
+  6. Neutron | Demo Flight - NET July, 2025 -                             
+  7. Electron/Curie | VICTUS HAZE - NET October, 2025 -                             
+
+ISRO (4 launches):
+  1. PSLV-XL | EOS-09 - Sun May 18, 2025 00:00 UTC - First Launch Pad, Satish Dhawan Space Centre, India
+  2. GSLV Mk II | NISAR - NET June, 2025 -                             
+  3. LVM-3 | BlueBird #6 - NET July, 2025 -                             
+  4. PSLV-XL | Oceansat-3A - NET November, 2025 -                             
+
+CASC (3 launches):
+  1. Long March 3B/E | Tianwen 2 - NET May, 2025 -                             
+  2. Long March 12 | SatNet LEO Group TBD? - NET May, 2025 -                             
+  3. Long March 8 | G60 Polar Group TBD - NET 2nd Quarter, 2025 -                             
+
+Northrop (2 launches):
+  1. Minotaur IV | EWS-OD 1 - NET May, 2025 -                             
+  2. Minotaur IV | STP-S29A - NET September, 2025 -                             
+
+JAXA (1 launches):
+  1. H-IIA 202 | GOSAT-GW - Mon Jun 23, 2025 16:33 UTC - LA-Y1, Tanegashima Space Center, Japan
+
+ULA (10 launches):
+  1. Vulcan VC4S | USSF-106 - NET 2nd Quarter, 2025 -                             
+  2. Vulcan VC4S | USSF-87 - NET 2nd Quarter, 2025 -                             
+  3. Vulcan VC4L | CRS SNC-1 - NET 3rd Quarter, 2025 -                             
+  4. Atlas V 551 | ViaSat-3 F2 - NET 3rd Quarter, 2025 -                             
+  5. Vulcan VC6L | Project Kuiper (KV-01) - NET 3rd Quarter, 2025 -                             
+  6. Vulcan VC4S | USSF-112 - NET 2025 -                             
+  7. Vulcan Centaur | USSF-23 - NET 2025 -                             
+  8. Vulcan Centaur | USSF-43 - NET 2025 -                             
+  9. Vulcan Centaur | USSF-16 - NET 2025 -                             
+  10. Vulcan Centaur | WGS-11+ - NET 2025 -                             
+
+MHI (2 launches):
+  1. H3-30S | H3-30 Test Flight - NET 1st Half 2025 -                             
+  2. H3-24L | HTV-X 1 - NET October, 2025 -                             
+
+Roscosmos (12 launches):
+  1. Soyuz 2.1a | Progress MS-31 - NET Jul 3, 2025 -                         
+  2. Soyuz 2.1b/Fregat-M | Ionosfera-M n°3, 4 - NET Jul 25, 2025 -                         
+  3. Soyuz 2.1a | Bion-M n°2 - NET July, 2025 -                             
+  4. Soyuz 2.1b/Fregat-M | AIST-2T 01 & 02 - NET August, 2025 -                             
+  5. Soyuz 2.1a | Progress MS-32 - NET Sep 11, 2025 -                         
+  6. Soyuz 2.1a | Obzor-R n°1 & Others - NET 3rd Quarter, 2025 -                             
+  7. Soyuz 2.1a | Soyuz MS-28 - NET Nov 27, 2025 -                         
+  8. Soyuz 2.1a | Progress MS-33 - NET Dec 19, 2025 -                         
+  9. Soyuz 2.1b/Fregat-M | Arktika-M n°3 - NET 2025 -                             
+  10. Proton-M/DM-3 | Elektro-L n°5 - NET 2025 -                             
+  11. Soyuz 2.1b/Fregat-M | TELNET n°01 to 30 - NET 2025 -                             
+  12. Soyuz 2.1b/Fregat-M | TELNET n°31 to 60 - NET 2025 -                             
+
+Arianespace (6 launches):
+  1. Vega C | CO3D & MicroCarb - NET July, 2025 -                             
+  2. Ariane 62 | METOP-SG A1 - NET August, 2025 -                             
+  3. Ariane 62 | EDRS-D - NET 2025 -                             
+  4. Ariane 62 | Galileo FOC FM29-FM30 - NET 2025 -                             
+  5. Ariane 62 | Galileo FOC FM33-FM34 - NET 2025 -                             
+  6. Ariane 62 | Galileo FOC FM35-FM36 - NET 2025 -                             
+
+Galactic Energy (1 launches):
+  1. Pallas 1 | Demo Flight - NET August, 2025 -                             
+
+Blue Origin (2 launches):
+  1. New Glenn | Pathfinder Mission 1 - NET August, 2025 -                             
+  2. New Glenn | ESCAPADE - NET 3rd Quarter, 2025 -                             
+
+CAS Space (1 launches):
+  1. Kinetica 2 | Maiden flight - NET September, 2025 -                             
+
+RFA (1 launches):
+  1. RFA One | Demo Flight - NET 3rd Quarter, 2025 -                             
+
+Landspace (1 launches):
+  1. ZhuQue-3 | Demo Flight - NET 3rd Quarter, 2025 -                             
+
+KARI (1 launches):
+  1. KSLV-2 | CAS500-3 - NET November, 2025 -                             
+
+MLS (1 launches):
+  1. Tsyklon-4M | Demo Flight - NET 2025 -                             
+
+Latitude (1 launches):
+  1. Zéphyr | Demo Flight - NET 2025 -                             
